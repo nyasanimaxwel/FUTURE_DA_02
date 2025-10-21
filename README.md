@@ -8,9 +8,7 @@ This project explores Facebook Ad Campaign performance data using Power BI. The 
  Objective
 
 
-To evaluate ad campaign effectiveness by tracking performance indicators such as impressions, clicks, spend, conversions, CTR, CPC, and ROI. The dashboard is designed to answer questions like:
-
-Which campaigns performed best overall?
+To evaluate ad campaign effectiveness by tracking performance indicators such as impressions, clicks, spend, conversions, CTR and CPC. The dashboard is designed to answer questions like:
 
 Which audience segments engaged most with the ads?
 
@@ -61,4 +59,5 @@ The analysis highlights that campaign performance is not only about total reach 
  Conclusion
 
 This Facebook Ads Performance Tracker demonstrates how marketing analytics can transform raw social-media data into meaningful insights. By combining visual storytelling with measurable metrics, it provides a clear understanding of where ads perform best and how digital campaigns can be optimized for future success.
+
 
